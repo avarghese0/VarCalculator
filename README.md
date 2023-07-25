@@ -22,7 +22,7 @@ To deploy this project run
 
 ## Authors
 
-- [@avarghese0](https://github.com/avarghese0/)
+- [@avarghese](https://github.com/avarghese0/)
 
 
 ## Screenshots
