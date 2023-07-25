@@ -1,5 +1,14 @@
 plugins {
-    id 'java'
+    id "application"
+}
+apply plugin : "java"
+
+ext {
+    javaMainClass = "var.VarCalculator"
+}
+
+application {
+    mainClassName = javaMainClass
 }
 
 group 'org.example'
@@ -17,8 +26,8 @@ dependencies {
     implementation group: 'org.apache.poi', name: 'poi-ooxml', version: '5.2.2'
     testImplementation 'junit:junit:4.12'
 
-
 }
+
 
 test {
     useJUnitPlatform()

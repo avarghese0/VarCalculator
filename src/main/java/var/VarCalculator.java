@@ -1,4 +1,4 @@
-package main;
+package var;
 
 import dto.ExcelDataDto;
 import dto.Stock;
@@ -12,7 +12,7 @@ import java.util.List;
  * @author avarghese
  * Main class to calculate value at risk based on historical data.
  */
-public class Main {
+public class VarCalculator {
     public static void main(String[] args) {
 
         /**
