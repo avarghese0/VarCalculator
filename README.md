@@ -10,14 +10,6 @@ Follow the run instructions and a results tab will be generated in the same file
 Results tab will contain mainly the `daily return in percent, daily return in dollars, for all stocks and total portfolio, value at rick amount`
 
 
-Sample reult data
-
-     
-
-
-
-
-
 ## Deployment
 
 To deploy this project run
@@ -35,5 +27,5 @@ To deploy this project run
 
 ## Screenshots
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
