@@ -27,5 +27,6 @@ To deploy this project run
 
 ## Screenshots
 
+![image](https://github.com/avarghese0/VarCalculator/assets/121063097/5561180e-b1b0-4158-9cfc-a66c69c4a371)
 
 
