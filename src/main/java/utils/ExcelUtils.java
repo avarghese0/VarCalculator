@@ -14,6 +14,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * @author avarghese
+ * Holds all excel manipulation methods.
+ */
 public class ExcelUtils {
 
     public static ExcelDataDto excelReader(String filePath) {

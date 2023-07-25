@@ -5,17 +5,21 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * @author avarghese
+ * This class contains two map objects that stores historic data of stocks and the configuration values.
+ */
 public class ExcelDataDto {
+
+    /**
+     * Historic data fetched from the data file.
+     */
     Map<String, List<String>> stockData;
 
+    /**
+     * Configuration data fetched from the index sheet of the data file.
+     */
     Map<String, String> configParams;
-
-    String returnInPercent;
-
-    String returnInDollars;
-
-    List<String> portfolios;
-
 
 
     public ExcelDataDto() {

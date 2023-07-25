@@ -4,6 +4,10 @@ import utils.Utils;
 
 import java.util.List;
 
+/**
+ * @author avarghese
+ * Stock builder dto that builds the stock object.
+ */
 public class Stock {
     private String stockName;
     private List<Double> stockValues;
